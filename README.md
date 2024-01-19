@@ -8,7 +8,7 @@ Zipeng Wang<sup>1</sup>, Xuehui Yu<sup>1</sup>, Xumeng Han<sup>1</sup>, Wenwen Y
 
 [![Paper](https://img.shields.io/badge/arXiv-2401.09709-brightgreen)](https://arxiv.org/abs/2401.09709)
 
-<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg/figures/frame5.png" width="100%" height="100%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/frame5.png" width="100%" height="100%">
 
 
 # Abtract
@@ -19,9 +19,9 @@ Extensive experiments substantiate the efficacy of MDM in fostering the synergy 
 
 # Experimental Results (VOC 2012, COCO)
 
-<img src = "https://github.com/ucas-vg/P2Seg/blob/main/P2Seg/figures/voc_val_set.png" width="50%" height="50%">
-<img src = "https://github.com/ucas-vg/P2Seg/blob/main/P2Seg/figures/coco_val_set.png" width="50%" height="50%">
-<img src = "https://github.com/ucas-vg/P2Seg/blob/main/P2Seg/figures/coco_test_dev.png" width="50%" height="50%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/voc_val_set.png" width="50%" height="50%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/coco_val_set.png" width="50%" height="50%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/coco_test_dev.png" width="50%" height="50%">
 
 * P2Seg (ResNet101, point-label) : 53.9 mAP50 on VOC2012 [[download]](https://drive.google.com/drive/folders/10_iwtNyaWmRRbG_GNF3V_J1E8T1tzf2l?usp=drive_link)
 * P2Seg (HRNet48, point-label) : 55.6 mAP50 on VOC2012 [[download]](https://drive.google.com/drive/folders/10_iwtNyaWmRRbG_GNF3V_J1E8T1tzf2l?usp=drive_link)
@@ -30,17 +30,17 @@ Extensive experiments substantiate the efficacy of MDM in fostering the synergy 
 # Qualitative Results
 * COCO2017
 
-<img src = "https://github.com/ucas-vg/P2Seg/blob/main/P2Seg/figures/vis_coco.jpeg" width="50%" height="50%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/vis_coco.jpeg" width="50%" height="50%">
 
 * VOC2012
 
-<img src = "https://github.com/ucas-vg/P2Seg/blob/main/P2Seg/figures/vis_voc.jpeg" width="50%" height="50%">
+<img src = "https://github.com/ucas-vg/P2Seg_Public/blob/main/P2Seg_Public/figures/vis_voc.jpeg" width="50%" height="50%">
 
 # News
 
 - [x] official pytorch code release
 - [x] update training code and dataset for VOC
-- [x] update training code and dataset for COCO
+- [ ] update training code and dataset for COCO
 
 # How To Run
 
